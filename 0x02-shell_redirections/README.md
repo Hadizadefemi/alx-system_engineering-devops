@@ -1,7 +1,9 @@
-0-hello_world prints  “Hello, World”, followed by a new line to the standard output.
-1-confused_smileyr is a script that displays a confused smiley "(Ôo)'.
-2-hellofile is a script that Display the content of the /etc/passwd file.
-3-twofiles is a script that Display the content of /etc/passwd and /etc/hosts.
+<h2>Shell, I/O Redirection</h2>
+
+<p>0-hello_world prints  “Hello, World”, followed by a new line to the standard output.</p>
+<p>1-confused_smileyr is a script that displays a confused smiley "(Ôo)'.</p>
+<p>2-hellofile is a script that Display the content of the /etc/passwd file.</p>
+<p>3-twofiles is a script that Display the content of /etc/passwd and /etc/hosts.</p>
 4-lastlines is a script that Display the last 10 lines of /etc/passwd.
 5-firstlines is a script that Display the first 10 lines of /etc/passwd.
 6-third_line is a script that displays the third line of the file iacta.
