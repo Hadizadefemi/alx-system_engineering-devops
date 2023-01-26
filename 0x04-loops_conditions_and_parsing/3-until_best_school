@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# displays Best School 10 times using until
+count=1
+until [[ "$count" -ge 11 ]]
+do
+    echo "Best School"
+    count=$((count + 1))
+done
